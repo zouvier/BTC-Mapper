@@ -5,7 +5,8 @@ that are trading large sums at a time to see if theyre making money or not. if t
 -- further development on this will be made in the near future 
 
 Made mapper for the following Crypto:
-
+~~~~~
+Made:
 Bitcoin
 LiteCoin
 Doge coin
