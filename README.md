@@ -15,7 +15,7 @@ BitCoin SV
 Bitcoin Gold
 ~~~~
 to be made:
-Etherum 
+Etherum - using different website 
 Reddcoin
 Vertcoin
 Namecoin
