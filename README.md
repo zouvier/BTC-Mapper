@@ -8,13 +8,14 @@ Made mapper for the following Crypto:
 ~~~~~
 Made:
 Bitcoin
+
+~~~~
+to be made:
 LiteCoin
 Doge coin
 Bitcoin Cash
 BitCoin SV
 Bitcoin Gold
-~~~~
-to be made:
 Etherum - using different website 
 Reddcoin
 Vertcoin
