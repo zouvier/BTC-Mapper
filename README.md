@@ -8,12 +8,11 @@ Made mapper for the following Crypto:
 ~~~~~
 Made:
 Bitcoin
-
+Bitcoin Cash
 ~~~~
 to be made:
 LiteCoin
 Doge coin
-Bitcoin Cash
 BitCoin SV
 Bitcoin Gold
 Etherum - using different website 
