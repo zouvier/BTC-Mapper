@@ -9,12 +9,12 @@ Made mapper for the following Crypto:
 Made:
 Bitcoin
 Bitcoin Cash
+Bitcoin Gold
 ~~~~
 to be made:
 LiteCoin
 Doge coin
 BitCoin SV
-Bitcoin Gold
 Etherum - using different website 
 Reddcoin
 Vertcoin
