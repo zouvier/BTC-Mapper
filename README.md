@@ -10,9 +10,9 @@ Made:
 Bitcoin
 Bitcoin Cash
 Bitcoin Gold
+LiteCoin
 ~~~~
 to be made:
-LiteCoin
 Doge coin
 BitCoin SV
 Etherum - using different website 
