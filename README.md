@@ -11,9 +11,9 @@ Bitcoin
 Bitcoin Cash
 Bitcoin Gold
 LiteCoin
+Doge coin
 ~~~~
 to be made:
-Doge coin
 BitCoin SV
 Etherum - using different website 
 Reddcoin
