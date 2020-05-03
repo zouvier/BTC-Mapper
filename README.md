@@ -12,9 +12,9 @@ Bitcoin Cash
 Bitcoin Gold
 LiteCoin
 Doge coin
+BitCoin SV
 ~~~~
 to be made:
-BitCoin SV
 Etherum - using different website 
 Reddcoin
 Vertcoin
