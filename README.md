@@ -22,5 +22,4 @@ Vertcoin
 Namecoin
 Blackcoin
 FeatherCoin
-NovaCoin
 
