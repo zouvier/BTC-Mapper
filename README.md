@@ -6,12 +6,14 @@ that are trading large sums at a time to see if theyre making money or not. if t
 next step is to create a graph that shows when the wallet made a positive return along with news articles that were out at the time
 -- further development on this will be made in the near future-- 
 Mapper/Crypto/News cross reference:
+~~~~
 BTC
 LTC
 ETH(still need to get big winners) 
 
 mapper made for the following Crypto:
-~~~~~~~
+~~~~~
+~~~~~
 Made:
 Bitcoin
 Bitcoin Cash
@@ -19,6 +21,7 @@ Bitcoin Gold
 LiteCoin
 Doge coin
 BitCoin SV
+~~~~~~
 ~~~~~~
 to be made:
 Etherum - using different website 
@@ -28,5 +31,5 @@ Vertcoin
 Namecoin
 Blackcoin
 FeatherCoin
-
+~~~~~~~~
 
