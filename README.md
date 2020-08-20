@@ -4,6 +4,7 @@ that are trading large sums at a time to see if theyre making money or not. if t
 
 
 next step is to create a graph that shows when the wallet made a positive return along with news articles that were out at the time
+more advance version using Dash is to be created
 -- further development on this will be made in the near future-- 
 
 ~~~~
