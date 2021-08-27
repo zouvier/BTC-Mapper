@@ -22,14 +22,5 @@ LiteCoin
 Doge coin
 BitCoin SV
 ~~~~~
-~~~~~~
-to be made:
-Etherum - using different website 
-Ripple (XRP) - find reliable source
-Reddcoin
-Vertcoin
-Namecoin
-Blackcoin
-FeatherCoin
-~~~~~~
+
 
