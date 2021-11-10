@@ -1,4 +1,4 @@
-'''# By Zoumana Cisse. Huge thanks to Python for trading on youtube (https://www.youtube.com/channel/UCFGPA5ZV9BZIhR7w8EbS-hg/featured)
+'''# By Zoumana Cisse
 The main purpose of this program is to get a list of Crypto addresses that are making positive gains in relation to USD/BTC by day trading
 It will go through X amount of pages on the Richest bitcoin addresses and save those with a positive net balance through out the years
  '''
